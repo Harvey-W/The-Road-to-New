@@ -1,5 +1,4 @@
 # The-Road-to-New
-ideas repository
 
 ---
 Ideas are sharing, while
